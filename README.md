@@ -67,5 +67,5 @@ git clone https://github.com/Gendolf1/AI-Telegram-Channel
 
  - Внедрить систему мониторинга
  - Сделать ИИ общение в комментариях
-#Пример работы
+# Пример работы
 [![Пример работы](https://i.postimg.cc/WzftyN1z/photo-2025-07-01-13-47-56.jpg)](https://postimg.cc/fSmwthXQ)
